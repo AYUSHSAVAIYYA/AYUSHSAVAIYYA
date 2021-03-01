@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AYUSHSAVAIYYA
 - 👀 I’m interested in Full stack development.
-- 🌱 I’m currently Doing Bachlor's in commerce and computer application.
+- 🌱 I’m currently pursuing Bachlor's in commerce and computer application.
 - 💞️ I’m looking to collaborate on Github
 - 📫 You can reach me by contact me on savaiyyaayush@gmail.com
 
